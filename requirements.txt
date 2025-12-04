@@ -10,3 +10,4 @@ jupyterlab
 ase
 pymatgen
 pythtb
+nglview
